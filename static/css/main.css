@@ -9,7 +9,7 @@ html, body {
 
 /* Wrapper for page content to push down footer */
 #wrap {
-  padding-bottom: 50px;	
+  padding-bottom: 50px;
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */
@@ -84,7 +84,7 @@ html, body {
 /* Custom page CSS */
 .container {
   width: auto;
-  max-width: 800px;
+  max-width: 900px;
   text-align: center;
 }
 .container .text-muted {
@@ -171,8 +171,8 @@ html, body {
 }
 .blogpost{
   text-align: left;
-  line-height: 30px;
-  font-size: 18px;
+  line-height: 25px;
+  font-size: 16px;
 }
 
 /* Footer  */
@@ -189,5 +189,5 @@ div.footer{
 /*.footer {
   height: 50px;
   padding-bottom: 15px;
-  
+
 }*/
